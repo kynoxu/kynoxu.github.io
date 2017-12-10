@@ -1,0 +1,70 @@
+#body{
+  background-color: :#002233
+     background:#003366 -webkit-linear-gradient(left, #00111a , #002233);
+     background: -o-linear-gradient(right, #00111a, #002233);
+     background: -moz-linear-gradient(right, #00111a, #002233);
+     background: linear-gradient(to right, #00111a , #002233);
+
+}
+#cv{
+  color: white;
+  font-family: arial;
+  padding: 20px;
+  text-align: left;
+  font-size: 35px
+}
+#buttons{
+  font-family: arial;
+  font-size: 13px;
+}
+#name{
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+
+}
+#contact{
+  color: white;
+  font-size: 15px;
+  font-family: arial;
+
+}
+#aboutme{
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+
+}
+#paboutme{
+  color: white;
+  font-size: 15px;
+  font-family: arial;
+
+}
+#peducation{
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+
+}
+#schools{
+  color: white;
+  font-size: 15px;
+  font-family: arial;
+
+
+}
+#skill{
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+
+}
+#pskills{
+  color: white;
+  font-size: 15px;
+  font-family: arial;
+}
+#tot{
+  padding: 10px;
+}

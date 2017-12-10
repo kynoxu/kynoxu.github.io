@@ -1,0 +1,66 @@
+#body{
+  background-color: :#002233
+     background:#003366 -webkit-linear-gradient(left, #00111a , #002233);
+     background: -o-linear-gradient(right, #00111a, #002233);
+     background: -moz-linear-gradient(right, #00111a, #002233);
+     background: linear-gradient(to right, #00111a , #002233);
+   }
+#title{
+  color: white;
+  font-family: arial;
+  padding: 20px;
+  text-align: left;
+  font-size: 35px
+}
+#buttons{
+  font-family: arial;
+  font-size: 13px;
+}
+#para{
+  color: white;
+  font-family: arial;
+  padding: 25px;
+  font-size: 18px;
+}
+#msaccess{
+  width: 150px;
+  height: auto;
+  padding: 25px;
+  position: relative;
+  top: 250px;
+}
+#msword{
+  width: 150px;
+  height: auto;
+  padding: 25px;
+  position: relative;
+  top: 250px;
+}
+#mspp{
+  width: 150px;
+  height: auto;
+  padding: 25px;
+  position: relative;
+  top: 250px;
+}
+#docs{
+  width: 150px;
+  height: auto;
+  padding: 25px;
+  position: relative;
+  top: 250px;
+}
+#photoshop{
+  width: 150px;
+  height: auto;
+  padding: 25px;
+  position: relative;
+  top: 250px;
+}
+#atom{
+  width: 150px;
+  height: auto;
+  padding: 25px;
+  position: relative;
+  top: 250px;
+}
